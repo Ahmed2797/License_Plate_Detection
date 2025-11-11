@@ -4,6 +4,7 @@
 licences_plate_detect 
 
 <h2>create environment</h2>
+
 conda create -n lc_plate python=3.12
 conda activate lc_plate
 conda deactivate 
