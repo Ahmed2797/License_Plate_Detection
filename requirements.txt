@@ -1,9 +1,23 @@
 # paddleocr==3.3.1
+# ultralytics==8.3.227
+# opencv-python==4.12.0.88
+# easyocr==1.7.2
+# numpy
+# matplotlib
+# paddlepaddle 
+# paddleocr==2.4 
+# fastapi==0.121.1
+#opencv-contrib-python==4.6.0.66
+
+
 ultralytics==8.3.227
 opencv-python==4.12.0.88
+opencv-contrib-python==4.6.0.66
 easyocr==1.7.2
 numpy
 matplotlib
-paddlepaddle 
-paddleocr==2.4 
-fastapi==0.121.1
+fastapi==0.121.1  # optional
+six
+python-dateutil
+langchain==0.1.6
+

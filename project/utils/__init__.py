@@ -5,6 +5,8 @@ from datetime import datetime
 import sqlite3
 import numpy as np
 from paddleocr import PaddleOCR
+import easyocr
+ocr0 = easyocr.Reader(['en'])
 
 
 
